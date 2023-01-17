@@ -4,9 +4,9 @@ const NrcSdk = require("@rather-labs/nrc-721-sdk");
 const ckbRPC = "https://testnet.ckbapp.dev/rpc";
 const ckbIndexerRPC = "https://testnet.ckbapp.dev/indexer";
 
-const ownerAddress = "0x...";
+const ownerAddress = "ckt...";
 const ownerPrivateKey = "0x...";
-const targetAddress = "0x...";
+const targetAddress = "ckt...";
 
 // token info
 const factoryName = "";
