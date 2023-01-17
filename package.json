@@ -1,0 +1,9 @@
+{
+  "name": "deploy-nrc721",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rather-labs/nrc-721-sdk": "^0.0.19"
+  }
+}
